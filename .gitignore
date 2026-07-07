@@ -22,3 +22,10 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+# Agregar al .gitignore
+.env
+.env.*
+!.env.example
+docker/secrets/
+*.pem
+*.key

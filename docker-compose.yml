@@ -43,3 +43,19 @@ volumes:
 networks:
   laravel_net:
     driver: bridge
+  app:
+    image: laravel_app
+    env_file:
+      - .env.docker
+    secrets:
+      - db_password
+      - app_key
+    environment:
+      DB_PASSWORD_FILE: /run/secrets/db_password
+ 
+secrets:
+  db_password:
+    file: ./docker/secrets/db_password.txt
+  app_key:
+    file: ./docker/secrets/app_key.txt
+ 
