@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Practicas_Dual_2do_Parcial
+#Aqui estaran todas las practicas realizadas por Ochoa Rosales Johan Jareth drante el periodo de evaluciones de Mayo-Agosto en la Universidad Politecnica de Texcoco, de la materia Programacion Web, impartida por el Profesor, Gerardo Miguel Sanchez.
+>>>>>>> 8596bb37e289a585d5f6eb8f26518d7dd26a17e9
